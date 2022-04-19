@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.header-class {
+  padding: 16px;
+  background-color: lightgray;
+  margin-bottom: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
